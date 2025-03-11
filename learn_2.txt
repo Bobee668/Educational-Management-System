@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-this is test l
-=======
 this is test 7
->>>>>>> e7ed67ab4b66b93b912f71d313d9c5cbd6a4aebe
